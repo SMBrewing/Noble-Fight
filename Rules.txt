@@ -1,0 +1,284 @@
+Card Game (Normal Deck):
+
+Initial Rules:
+2 Matching Cards to Attack, first person to attack wins)
+
+Rule Variance:
+1 Card to Defend, 2 Matching Cards to Attack, Card Value matches their attack.
+
+Rule Variance:
+Aces are highest defend, lowest attack
+
+Rule Variance:
+1 Card to Defend, 1 Card to Attack
+
+Rule Variance:
+Dice Determine if you can Defend or Attack. 4 Dice (1 - 2 Defend, 3 - 4 Nothing, 5 - 6 Attack)
+
+Rule Variance:
+All Cards have Attack and Defense values
+
+Rule Variance:
+Defense Cards must be Placed Down Face up (Meh...)
+
+Rule Variance:
+Defense Cards have health, Attack brings down their Health once it gets through their Defense
+
+Rule Variance:
+Every successful attack takes away one die, 4 successful attacks ends the game
+
+Dice count to the number of people playing??? (Minimum of 4)
+
+
+
+
+
+Rules:
+-4 Dice
+-5 Cards in Hand
+-Dice Rolls (1/2 Defense, 3/4 Attack Left, 5/6 Attack Right)
+-Players place cards under dice that they want to use.
+-Players place an additional card on the table. This is their extra defense card
+-On Successful Attack, Defender discard 1 die. If you discard a die, you cannot be attacked again this turn.
+-You must play a card for every die and you must play an extra defense card! You cannot opt out of playing action cards.
+
+
+
+
+
+
+Turn Order:
+-Roll Phase: Everyone Rolls their Dice
+-Planning Phase: Place Action Cards you want to play under Dice. Place another action card down (This is your extra defense card)
+-Reveal Phase: All players reveal at once
+-Resolution Phase: Resolve all actions on the table
+-Draw Phase: Draw 5 Action Cards
+-Discard Phase: Discard Back down to 5 Action Cards
+-Modifier Phase: Draw up to the number of die you have lost during the game. (Basic 4 - your remaining dice)
+
+Notes:
+Anybody with 4 dice will use all 5 Action cards every round, and have 0 Modifier cards
+Anybody with 3 dice will use 4 Action cards every round, and have 1 Modifier card
+Anybody with 2 dice will use 3 Action cards every round, and have 2 Modifier cards
+Anybody with 1 die will use 2 Action cards every round, and have 3 Modifier cards
+Anybody with 0 die will use 0 Action cards every round, have 0 Modifier cards, and have 4 Death cards
+
+
+
+
+-Action Cards-
+Spear (Attack: 1, Reach: 2, Defense: 0)
+Sword (Attack: 2, Reach: 1, Defense: 0)
+Knife (Attack: 1, Reach: 1, Defense: 1)
+Sheild (Attack: 0, Reach: 0, Defense: 2)
+
+-Modifier Cards-
+Lighten Bolt (Gun)
+3 dice: Flintlock Pistol, +1 to any attack
+2 dice: Shotgun, +3 to any attack
+1 die: Bzooka, +20 to any attack
+Play facedown under die during planning phase
+
+
+
+Physical and Magic Cards as names!
+
+
+
+------------------------------
+Plot:
+You are in combat against small armies
+Each dice is a soldier in your army
+When you lose a die, that soldier dies
+The last defense card is your guy
+The soldier's actions are random, because to suck at commanding
+
+Set up
+-Give each player 5 action cards
+-Give each player 4 dice
+
+Winning
+-You win when all other players lose all their die.
+
+Turn Order:
+-Turn Start
+-Roll Phase
+-Planning Phase
+-Resolution Phase
+-Draw & Discard Phase
+-Turn End
+
+Turn Start
+-Regain all mana
+--1 die remaining - Get 6 mana
+--2 die remaining - Get 4 mana
+--3 die remaining - Get 2 mana
+--4 die remaining - Get 0 mana
+
+Roll Phase
+-Everyone rolls all of their active die.
+Roll of
+-1 or 2 = Defense
+-3 or 4 = Attack Left
+-5 or 6 = Attack Right
+
+Planning Phase
+-Players place 1 action card under every die they have.
+-Players place 1 additional action card down, this counts as a defense card.
+-You MUST place an action card down for ever die and 1 extra for defense.
+
+-- Defense Cards in Attack Columns can be used to defend attacks from that side
+-- Attack Cards in the Defense Column can be used for a retaliatory attacks (Attacking the attacking player after a successful defense)
+
+Resolution Phase
+-Player to start
+--Player with Highest Health
+--Player who attacked least recently
+--Player with most attack cards
+--Random
+
+-Players who's turn it is proceeds to do an attack by revealing a single attack card
+--If player can successfully defend, then it is their turn. Otherwise the attack player goes again
+--If not all cards have been revealed, but attack chain has not been resolved, then continue to next steps. Those attack are unused and discarded.
+-Any player being attacked then must reveal any defense action cards it takes to defend against the attack. If the combination of attacks against a player is greater than their defense, then that player loses one die and cannot be attacked. If they have yet to attack this turn, their attacks will not apply, but their spell cards with remain active.
+
+Draw & Discard Phase
+Order
+//-Discard as many action cards as you choose
+-Draw 5 Action Cards
+-Discard down to 5 Action Cards
+-Discard as many magic cards you choose
+-Draw up to your magic card limit
+
+Turn End
+
+
+//Anybody with 4 dice will use all 5 Action cards every round, and have 0 Spell cards
+//Anybody with 3 dice will use 4 Action cards every round, and have 1 Level 1 Spell card
+//Anybody with 2 dice will use 3 Action cards every round, and have 2 Level 1 and 1 Level 2 Spell cards
+//Anybody with 1 dice will use 2 Action cards every round, and have 3 Level 1, 2 Level 2, and 1 Level 3 Spell cards
+
+For 4 Players
+20 Action Cards
+12 Level 1 Magic Cards (+3 Cards)
+8 Level 2 Magic Cards (+2 Cards)
+4 Level 3 Magic Cards (+1 Card)
+50 Total
+
+For 6 Players
+30 Action Cards
+18 Level 1 Magic Cards (+3 Cards)
+12 Level 2 Magic Cards (+2 Cards)
+6 Level 3 Magic Cards (+1 Card)
+72 Total
+
+Anybody with 8 dice will use all 9 Action cards every round, and have 0 Spell cards
+Anybody with 7 dice will use 8 Action cards every round, and have 1 Level 1 Spell card
+Anybody with 6 dice will use 7 Action cards every round, and have 2 Level 1 Spell card
+Anybody with 5 dice will use 6 Action cards every round, and have 3 Level 1 Spell card, and 1 Level 2 Spell cards
+Anybody with 4 dice will use 5 Action cards every round, and have 4 Level 1 Spell card, and 1 Level 2 Spell cards
+Anybody with 3 dice will use 4 Action cards every round, and have 4 Level 1 Spell card, and 2 Level 2 Spell cards
+Anybody with 2 dice will use 3 Action cards every round, and have 4 Level 1 Spell card, and 3 Level 2 Spell cards, and 1 Level 3 Spell cards
+Anybody with 1 dice will use 2 Action cards every round, and have 4 Level 1 Spell card, and 4 Level 2 Spell cards, and 2 Level 3 Spell cards
+
+For 6 Players:
+48 Dice
+54 Action Cards
+24 Level 1 Magic Cards (+4 Cards)
+24 Level 2 Magic Cards (+4 Cards)
+12 Level 3 Magic Cards (+2 Cards)
+122 Total
+
+-Action Cards-
+~Weapon Types
+//Musket (Low Damage, High Range, No Defense) (Roll for accuracy, range of 6 requires 6 roll, range of 2 requires a 2 or higher. Cannot be blocked with defense)
+//Blunderbuss (High Damage, Low Range, No Defense) (Roll for acc
+Longbow (Damage: 2 Range: 4 Defense: 2) (Damage: 3 Range: 4 Defense: 2) (Type: Ranged)
+Crossbow (Damage: 3 Range: 4 Defense: 1) (Damage: 4 Range: 4 Defense: 1) (Type: Ranged)
+Spear (Damage: 1 Range: 4 Defense: 4) (Damage: 2 Range: 4 Defense: 4)
+Mace (Damage: 4 Range: 3 Defense: 2) (Damage: 5 Range: 3 Defense: 2)
+Cutlass (Damage: 3 Range: 4 Defense: 3) (Damage: 4 Range: 4 Defense: 4)
+Claymore (Damage: 4 Range: 3 Defense: 3) (Damage: 5 Range: 3 Defense: 3)
+Dagger (Damage: 6 Range: 1 Defense: 6) (Damage: 8 Range: 1 Defense: 6) 
+Warhammer (Damage: 6 Range: 2 Defense: 1) (Damage: 8 Range: 2 Defense: 1)
+Battleaxe (Damage: 4 Range: 3 Defense: 1) (Damage: 6 Range: 3 Defense: 1)
+Shield (Defense: 4) (Defense: 6) (Defense: 8) (Defense: 8)
+Dodge 2
+24 Cards
+
+Wooden, Bronze, Iron, Steel
+
+
+1 Very Low
+2 Low
+4 Medium
+6 High
+8 Very High
+
+
+Bow (Attack: 2, Reach: 2, Defense: 0)
+Spear (Attack: 1, Reach: 2, Defense: 0)
+Sword (Attack: 2, Reach: 1, Defense: 0)
+Knife (Attack: 1, Reach: 1, Defense: 1)
+Great Knife (Attack: 3, Reach: 1, Defense: 3)
+Shield (Attack: 0, Reach: 0, Defense: 2)
+Great Shield (Attack: 1, Reach: 1, Defense: 4)
+Dodge (Defense Only - Dodge all attacks for a single round, but cannot attack for rest of round)
+
+Turn Order:
+-Turn Start
+-Roll Phase
+-Planning Phase
+-Resolution Phase
+-Draw & Discard Phase
+-Turn End
+
+-Level 1 Spell Card-
+-Loaded Die, Switch any 1 Die to your choosing
+-Free Drink (One Die is out for full round, if you have no die left, you are out for a full round)
+-Mercenary (Place an additional action card)
+-Pre-emptive Strike (Assert yourself as first in turn order)
+-Thrown (Attached Weapon is now thrown instead, causing it to have a reach of 1 and to be used as an attacking weapon)
+-Dulled (Attached Weapon is now dulled, causing it to have an attack of 1)
+-Corked (Attached Weapon has been corked, causing it to have a defense of 1)
+-Weapon Exchange Program (Exchange a weapon on the field with a weapon from your hand)
+-Sharpened (Attached Weapon has been sharpened, +2 attack)
+-Hardened (Attached Weapon has been hardened, +2 defense)
+-Free Coin (+2 mana)
+-Long Jump (Attack cannot be interferred)
+-Hardcore Parkour (Dodge does not put you out of the round, but you can still be attacked)
+-Free Weapon (Draw an additional action card)
+-Blissful Ignorance (Apply any magic card during any phase)
+
+-Level 2 Spell Card-
+-Loaded Dice, Switch all of a single player's dice to your choosing
+-Open Bar (One player is out for full round)
+-Reflection (Attack also attacks attacking player)
+-Empty Armoury (All players skip draw phase)
+-Immediate Strike (You take over the attack chain)
+-Strategic Meeting (Double your magic hand limit for the round, discard extras at end)
+-Glass (Attached weapon has turned to glass, Set all of a weapon's stats to 1)
+-New Weapon (All weapon stats are boosted by 2)
+-New Mercenary (Gain a mercenary if you don't receive damage)
+-Double Down (Any Magic card that was played against you, you can choose where it is placed)
+
+-Level 3 Spell Card-
+-Unstoppable Force (Card cannot be defended against, but can be dodged)
+-Impenetrable (Cannot be attacked, if attacked by a card that cannot be defended against, both defender and attacker receive a successful attack)
+-Necromancer (Everyone gets back one die)
+-Vampirism (If landing blow is deadly, steal the die)
+-Deception (If an attacking player has an option that doesn't attack you, that action must be taken instead)
+
+
+
+
+
+
+
+
+
+New Rules:
+Weapon cards out at end of round do not move
+Lot of magic cards will be about switching weapon cards, both item and position
+No Dice, just choose where new weapons are placed. 
+Spells are just a list? You choose to use what spells you want. (I dunno)
